@@ -22,3 +22,5 @@
 2) Асинхронная работа с файлами
 3) Реализация UI на WPF
 4) Покрытие кода тестами
+5) Внедрение зависимостей [Autofac](https://github.com/autofac/Autofac)
+6) Логирование [Serilog](https://github.com/serilog/serilog)
