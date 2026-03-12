@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="WellAnalyzing.Application/WellAnalyzing.Application.csproj" />
+    <Project Path="WellAnalyzing.Domain/WellAnalyzing.Domain.csproj" />
+    <Project Path="WellAnalyzing/WellAnalyzing.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="WellAnalyzing.ApplicationTests/WellAnalyzing.ApplicationTests.csproj" Id="a1c98a9e-fd39-429d-97a9-3df6ca06e93e" />
+    <Project Path="WellAnalyzingTests/WellAnalyzingTests.csproj" Id="134aafe3-74fd-4c57-a49c-be5e19b01e1f" />
+  </Folder>
+</Solution>
